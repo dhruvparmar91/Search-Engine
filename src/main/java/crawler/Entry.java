@@ -1,4 +1,4 @@
-package crawler;
+package Crawler;
 
 public class Entry {
 	private String link;
