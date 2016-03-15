@@ -7,7 +7,10 @@
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
 	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/commons-cli-2.0.jar"/>
-	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/lucene-analyzers-common-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/lucene-core-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/lucene-demo-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/lucene-queryparser-5.5.0.jar"/>
 	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/mongo-java-driver-3.2.1.jar"/>
 	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/mongodb-driver-3.2.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="/Users/dhruvparmar91/Desktop/Search-Engine/src/lib/tika-app-1.11.jar"/>

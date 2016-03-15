@@ -1,4 +1,4 @@
-package crawler;
+package Crawler;
 
 import java.util.Collections;
 import java.util.HashSet;
