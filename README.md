@@ -1,2 +1,2 @@
 # Search-Engine
-- A Simple Search Engine Application using Lucene
+- A Simple Search Engine Application using Apache Lucene
